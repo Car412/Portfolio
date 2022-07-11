@@ -18,7 +18,7 @@ const Proyectos = () => {
           <p className="py-6">Algunos de mis trabajos recientes</p>
         </div>
         {/* Container */}
-        <div className="grid sm:grid-cols-2 md:grid-cols-3 gap-4">
+        <div className="grid sm:grid-cols-2 md:grid-cols-4 gap-4">
           {/* Grid Item */}
           {
             <div
@@ -101,7 +101,7 @@ const Proyectos = () => {
             {/* Hover Effects */}
             <div className="opacity-0 group-hover:opacity-100">
               <span className="text-2xl font-bold text-white tracking-wider">
-                Marvel React Native
+                React Native
               </span>
 
               <div className="pt-8 text-center">

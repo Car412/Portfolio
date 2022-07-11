@@ -13,7 +13,8 @@ const Home = () => {
 				{/* <h2 className="text-4xl sm:text-7xl font-bold text-[#8892b0]">Soy full-stack developer</h2> */}
 				<p className="text-[#8892b0] py-4 max-w-[700px]">
 					Recientemente graduada como Desarrolladora Web FullStack de{' '}
-					<a href="http://www.soyhenry.com">#soyhenry.</a> Actualmente realizando proyectos personales y al encuentro de mi primer trabajo IT
+					<a href="http://www.soyhenry.com">#soyhenry.</a> Actualmente realizando proyectos personales y estudiando Marketing Digital en {' '}
+					<a href="https://www.digitaladexpert.com/">Digital Ad Expert</a>
 				</p>
 				<div>
 					<button className="text-white group border-2 px-6 py-3 my-2 flex items-center hover:bg-[#d059f8] hover:border-[#d059f8]">
